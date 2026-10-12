@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "Please cite the technical report when referring to MSAR."
+title: "Multi-Stream Attention Residuals"
+authors:
+  - family-names: Qin
+    given-names: Xiaohan
+  - family-names: Zhang
+    given-names: Xiangdong
+  - family-names: Dai
+    given-names: Tuo
+  - family-names: Zou
+    given-names: Sunan
+  - family-names: Wu
+    given-names: Huaijin
+  - family-names: Yang
+    given-names: Yebin
+  - family-names: Xia
+    given-names: Zhuo
+  - family-names: Yao
+    given-names: Lin
+  - family-names: Liu
+    given-names: Yuliang
+  - family-names: Yan
+    given-names: Junchi
+url: "https://github.com/jianke0604/MSAR"
+keywords:
+  - Residual connections
+  - Depth attention
+  - Pre-training
+preferred-citation:
+  type: report
+  title: "Multi-Stream Attention Residuals"
+  authors:
+    - family-names: Qin
+      given-names: Xiaohan
+    - family-names: Zhang
+      given-names: Xiangdong
+    - family-names: Dai
+      given-names: Tuo
+    - family-names: Zou
+      given-names: Sunan
+    - family-names: Wu
+      given-names: Huaijin
+    - family-names: Yang
+      given-names: Yebin
+    - family-names: Xia
+      given-names: Zhuo
+    - family-names: Yao
+      given-names: Lin
+    - family-names: Liu
+      given-names: Yuliang
+    - family-names: Yan
+      given-names: Junchi
+  year: 2026
+  url: "https://arxiv.org/abs/2610.13630"
